@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Ivetec-web-app/static/css/main.4b25a896.css",
+    "main.css": "/Ivetec-web-app/static/css/main.e6cb8130.css",
     "main.js": "/Ivetec-web-app/static/js/main.365a2992.js",
     "static/js/787.9800e963.chunk.js": "/Ivetec-web-app/static/js/787.9800e963.chunk.js",
     "static/media/car-icon-2.webp": "/Ivetec-web-app/static/media/car-icon-2.6657b9b047b54608fa11.webp",
@@ -19,12 +19,12 @@
     "static/media/car-icon-6.webp": "/Ivetec-web-app/static/media/car-icon-6.32ba8ac5572c93324c75.webp",
     "static/media/car-icon-5.webp": "/Ivetec-web-app/static/media/car-icon-5.a1a003adde320a116134.webp",
     "index.html": "/Ivetec-web-app/index.html",
-    "main.4b25a896.css.map": "/Ivetec-web-app/static/css/main.4b25a896.css.map",
+    "main.e6cb8130.css.map": "/Ivetec-web-app/static/css/main.e6cb8130.css.map",
     "main.365a2992.js.map": "/Ivetec-web-app/static/js/main.365a2992.js.map",
     "787.9800e963.chunk.js.map": "/Ivetec-web-app/static/js/787.9800e963.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b25a896.css",
+    "static/css/main.e6cb8130.css",
     "static/js/main.365a2992.js"
   ]
 }
