@@ -1,30 +1,29 @@
 {
   "files": {
-    "main.css": "/Ivetec-web-app/static/css/main.e6cb8130.css",
-    "main.js": "/Ivetec-web-app/static/js/main.365a2992.js",
-    "static/js/787.9800e963.chunk.js": "/Ivetec-web-app/static/js/787.9800e963.chunk.js",
+    "main.css": "/Ivetec-web-app/static/css/main.d32b0e8d.css",
+    "main.js": "/Ivetec-web-app/static/js/main.a562c741.js",
+    "static/js/787.41adeeb8.chunk.js": "/Ivetec-web-app/static/js/787.41adeeb8.chunk.js",
     "static/media/car-icon-2.webp": "/Ivetec-web-app/static/media/car-icon-2.6657b9b047b54608fa11.webp",
-    "static/media/IVETECimg2.webp": "/Ivetec-web-app/static/media/IVETECimg2.45671c27862ed5dc41e4.webp",
-    "static/media/car-icon-1.webp": "/Ivetec-web-app/static/media/car-icon-1.4787d701ff8ebd14d6b2.webp",
-    "static/media/car-icon-3.webp": "/Ivetec-web-app/static/media/car-icon-3.ef756c576d0814461b93.webp",
+    "static/media/IVETECimg1.jpeg": "/Ivetec-web-app/static/media/IVETECimg1.f990a47040df409dd756.jpeg",
+    "static/media/IVETECimg5.jpeg": "/Ivetec-web-app/static/media/IVETECimg5.8d71c32194dee880191e.jpeg",
     "static/media/car-icon-4.webp": "/Ivetec-web-app/static/media/car-icon-4.9cc6926bc040068f2a7e.webp",
-    "static/media/IVETECimg1.webp": "/Ivetec-web-app/static/media/IVETECimg1.e54bc2ce04769ff3d197.webp",
-    "static/media/horarioatencion.png": "/Ivetec-web-app/static/media/horarioatencion.f9849263f0e55066e2b9.png",
+    "static/media/IVETECimg2.jpeg": "/Ivetec-web-app/static/media/IVETECimg2.f842952a4e5cbc1b97bc.jpeg",
+    "static/media/car-icon-3.webp": "/Ivetec-web-app/static/media/car-icon-3.31c0accc5822665c449a.webp",
     "static/media/icon-wsp-chat.webp": "/Ivetec-web-app/static/media/icon-wsp-chat.a79fa431397a1ebf9bdf.webp",
-    "static/media/IVETECimg3.webp": "/Ivetec-web-app/static/media/IVETECimg3.4e7bd88d6e6beb246834.webp",
-    "static/media/personal.png": "/Ivetec-web-app/static/media/personal.181aa1bd3c195f5a73b1.png",
     "static/media/logoIVETEC.webp": "/Ivetec-web-app/static/media/logoIVETEC.adb30eff29d205aa5cee.webp",
-    "static/media/direccion.png": "/Ivetec-web-app/static/media/direccion.35f728a872358eed8126.png",
-    "static/media/IVETECimg4.webp": "/Ivetec-web-app/static/media/IVETECimg4.7e48f3a252fff5adbed6.webp",
     "static/media/car-icon-6.webp": "/Ivetec-web-app/static/media/car-icon-6.32ba8ac5572c93324c75.webp",
-    "static/media/car-icon-5.webp": "/Ivetec-web-app/static/media/car-icon-5.a1a003adde320a116134.webp",
+    "static/media/mapa.webp": "/Ivetec-web-app/static/media/mapa.fbc50aba4faece138981.webp",
+    "static/media/slick.svg": "/Ivetec-web-app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Ivetec-web-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Ivetec-web-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/Ivetec-web-app/index.html",
-    "main.e6cb8130.css.map": "/Ivetec-web-app/static/css/main.e6cb8130.css.map",
-    "main.365a2992.js.map": "/Ivetec-web-app/static/js/main.365a2992.js.map",
-    "787.9800e963.chunk.js.map": "/Ivetec-web-app/static/js/787.9800e963.chunk.js.map"
+    "static/media/slick.woff": "/Ivetec-web-app/static/media/slick.295183786cd8a1389865.woff",
+    "main.d32b0e8d.css.map": "/Ivetec-web-app/static/css/main.d32b0e8d.css.map",
+    "main.a562c741.js.map": "/Ivetec-web-app/static/js/main.a562c741.js.map",
+    "787.41adeeb8.chunk.js.map": "/Ivetec-web-app/static/js/787.41adeeb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6cb8130.css",
-    "static/js/main.365a2992.js"
+    "static/css/main.d32b0e8d.css",
+    "static/js/main.a562c741.js"
   ]
 }

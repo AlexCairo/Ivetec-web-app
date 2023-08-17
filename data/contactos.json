@@ -1,0 +1,29 @@
+{
+    "correo" : "Ivetecperu.gerencia@gmail.com",
+
+    "telefonos" : [
+        {
+            "sede" : "Ambas Sedes",
+            "numero" : "933751867"
+        },
+        {
+            "sede" : "Jicamarca",
+            "numero" : "980370030"
+        },
+        {
+            "sede" : "Manchay",
+            "numero" : "964728044"
+        }
+    ],
+
+    "direcciones" : [
+        {
+            "sede" : "Jicamarca",
+            "ubicacion" : "Jr. Mar del Norte Mz. D Lt. 8, Asociación de Posesionarios del Sector el Pedregal - Anexo 22, Pampa Canto Grande C.C."
+        },
+        {
+            "sede" : "Manchay",
+            "ubicacion" : "Parcela de terreno Nº 20 Del Sector 24 de junio (Quebrada de Manchay) de la comunidad Campesina de Collanac"
+        }
+    ]
+}

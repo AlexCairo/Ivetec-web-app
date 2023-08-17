@@ -1,0 +1,54 @@
+{
+        "contenido" : "IVETEC es un Centro de Inspección Ténica Vehicular autorizado por el Ministerio de Transportes y Comunicaciones con R.D. Nº 0402-2019-MTC/17.03 (sucursal Jicamarca) y con R.D. N° 509-2021-MTC/17.03 (sucursal Manchay), contando con 01 Línea de Inspección Tipo Mixta en cada sucursal.\n\nNuestro objetivo es brindar un servicio eficiente, confiable y rápido. Para ello contamos con equipos de última generación, con infraestructura e instalaciones adecuadas para brindar un servicio de calidad.",
+    
+        "caracteristicas" : [
+            {
+                "titulo" : "Personal Calificado",
+                "descripcion" : "En cada una de nuestras sucursales contamos con 03 Técnicos Mecánicos y 01 Ing. Mecánico, además de personal administrativo, todos altamente preparados para garantizar la calidad del servicio de revisión técnica vehicular."
+            },                
+            {
+                "titulo" : "Horarios de Atención",
+                "horarios" : [
+                    {
+                        "sede" : "Jicamarca",
+                        "horario" : [
+                            {
+                                "dia" : "Lunes a Sábado",
+                                "hora" : "08:00 a 21:00"
+                            },
+                            {
+                                "dia" : "Domingo",
+                                "hora" : "08:00 a 14:00"
+                            }
+                        ]
+                    },
+                    {
+                        "sede" : "Manchay",
+                        "horario" : [
+                            {
+                                "dia" : "Lunes a Sábado",
+                                "hora" : "08:00 a 21:00"
+                            }                           
+                        ]
+                    }
+                ]
+            },
+            {
+                "titulo" : "Ubícanos en :",
+                "ubicaciones" : [
+                    {
+                        "ubicacion" : "Jicamarca",
+                        "resolucion" : "Nº 0402-2019-MTC/17.03",
+                        "imagen" : "/img/JicamarcaSede.jpeg",
+                        "mapa" : "https://www.google.com/maps/place/Revisiones+tecnicas+ivetec+peru+sac/@-11.9363776,-76.9672332,16.79z/data=!4m10!1m2!2m1!1sivetec!3m6!1s0x9105db11859ba657:0x2b2a1c6e867f2021!8m2!3d-11.9355161!4d-76.9654589!15sCgZpdmV0ZWOSARZ0cmFuc3BvcnRhdGlvbl9zZXJ2aWNl4AEA!16s%2Fg%2F11hwvscyd0"
+                    },
+                    {
+                        "ubicacion" : "Manchay",
+                        "resolucion" : "Nº 509-2021-MTC/17.03",
+                        "imagen" : "/img/ManchaySede.jpg",
+                        "mapa" : "https://www.google.com/maps/place/Revisiones+tecnicas+IVETEC+PERU+sac/@-12.1291396,-76.8762233,16.25z/data=!4m10!1m2!2m1!1sivetec!3m6!1s0x9105bf041e2bd219:0xd595af53f9a58993!8m2!3d-12.1287927!4d-76.8724517!15sCgZpdmV0ZWOSARZ0cmFuc3BvcnRhdGlvbl9zZXJ2aWNl4AEA!16s%2Fg%2F11ry30g8pz"
+                    }
+                ]
+            }
+        ]
+}

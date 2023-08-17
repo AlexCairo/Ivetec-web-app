@@ -1,0 +1,31 @@
+[
+    
+    {
+        "vehiculo" : "Auto particular",
+        "precio" : "S/80"
+    },
+    {
+        "vehiculo" : "Taxi",
+        "precio" : "S/50"
+    },
+    {
+        "vehiculo" : "Camioneta Suv particular",
+        "precio" : "S/90"
+    },
+    {
+        "vehiculo" : "Combi urbano o rural M2",
+        "precio" : "S/70"
+    }, 
+    {
+        "vehiculo" : "Camión N2 , N3",
+        "precio" : "S/130"
+    }, 
+    {
+        "vehiculo" : "Transporte de estudiantes",
+        "precio" : "S/100"
+    }, 
+    {
+        "vehiculo" : "Transporte personal de trabajadores",
+        "precio" : "S/100"
+    }      
+]
