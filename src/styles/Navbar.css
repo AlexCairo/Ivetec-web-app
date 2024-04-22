@@ -1,0 +1,108 @@
+@import url('https://fonts.cdnfonts.com/css/poppins');
+
+:root{
+    --nav-primary-color: #e9edee;
+    --nav-secondary-color: #ad0600;
+    --nav-text-color: #196074;
+    --nav-shadow-color: #3a3559cb;
+    --nav-menu-background-mobile-color: #feffff;
+}
+
+body{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.logo{
+    border-radius: 50%;
+}
+.topheader{
+    background: var(--nav-primary-color);
+    box-shadow: 0 0 .5rem var(--nav-shadow-color);
+    position: sticky;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 999999;
+}
+.topnav{
+    display: flex;
+    justify-content: space-between;
+    padding: .5rem;
+    max-width: 980px;
+    margin: 0 auto;
+}
+.menu{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.menu li{
+    padding: 0 15px;
+}
+.menu-link{
+    font-family: 'Poppins', sans-serif; 
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: 600;
+    line-height: 4.3rem;
+    color: var(--nav-text-color);
+    border-bottom: .25rem solid transparent;
+    transition: .2s all ease;
+}
+.menu-link:hover{
+    border-bottom: solid .25rem var(--nav-text-color);
+}
+.open-menu, .close-menu{
+    display: none;
+}
+.icon-close, .icon-open{
+    width: 40px;
+    height: 40px;
+    color: var(--nav-text-color);
+}
+.selected{
+    border-bottom: solid .25rem var(--nav-text-color);
+}
+@media (max-width: 950px){
+    .menu{
+        flex-direction: column;
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 100%;
+        align-items: center;
+        background: var(--nav-menu-background-mobile-color);
+        height: 100%;
+        overflow-y: auto;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity .3s;
+    }
+    .menu-link{
+        line-height: 7rem;
+        font-size: 1.5em;
+        border-bottom: 0px solid transparent;
+    }
+    .menu-link:hover{
+        color: var(--nav-secondary-color);
+        /* font-weight: bold; */
+        border-bottom: 1px solid ;
+    }
+    .open-menu, .close-menu{
+        display: block;
+        border: none;
+        background: none;
+        cursor: pointer;
+    }
+    .close-menu{
+        align-self: flex-end;
+        padding: 20px 15px;
+    }
+    .menu_opened{
+        opacity: 1;
+        pointer-events: all;
+    }
+}
+

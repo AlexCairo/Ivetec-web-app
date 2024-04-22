@@ -1,0 +1,80 @@
+:root{
+    --footer-principal-color : #e9edee;
+    --footer-text-color : #196074;
+}
+
+.container-footer{
+    font-size: 1.5em;
+    font-family: 'Poppins', sans-serif;
+    color: var(--footer-text-color);
+    background: var(--footer-principal-color); 
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 1rem 0;
+    box-sizing: border-box;
+}
+.logo-footer{
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;    
+}
+.list-icons{
+    list-style: none;
+    border-left: solid 2px var(--footer-text-color);
+}
+.icon-item{
+    padding: .75rem 0;
+}
+.span-item, .container-footer-subList{
+    font-size: 1rem;
+}
+.container-footer-subList{
+    padding: .5rem;
+}
+.container-footer a{
+    color: var(--footer-text-color);
+    text-decoration: none;
+    transition: .2s;
+}
+.container-footer a:hover{
+    color: rgb(95, 95, 208);
+}
+@media (max-width : 1320px){
+    .logo-footer{
+        height: 200px;
+        width: 200px;
+    }
+    .container-footer-direcionItem{
+        margin-bottom: 1rem;
+    }
+}
+@media (max-width : 1205px){
+    .container-footer{
+        flex-direction: column;
+    }
+    .list-icons{
+        border-left: none;
+        border-top: solid 2px var(--footer-text-color);
+        text-align: center;
+        width: 80%;
+        padding: 0 1rem;
+    }
+    .container-footer-subList{
+        list-style: none;
+        line-height: 2.5rem;
+        text-align: center;
+    }
+}
+@media (max-width : 300px){
+    .logo-footer{
+        width: 70px;
+        height: 70px;
+    }
+    .span-item{
+        font-size: .75em;
+    }
+    .container-footer{
+        font-size: 1em;
+    }
+}

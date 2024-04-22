@@ -1,0 +1,47 @@
+.carrusel-principal{
+    width: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 1.5rem 4rem;
+    position: relative;
+    background: #125067;
+}
+
+.container-imagen img{
+    margin: 0 auto;
+    height: 54rem;
+    width: 95%;
+    border-radius: 5px;
+}
+.slick-prev, .slick-next{
+    z-index: 99;
+    transform: scale(3);
+    border-radius: 50%;
+    transition: .3s ease all;
+}
+.slick-dots li button::before{
+    margin-top: 5px;
+    font-size: 15px;
+    color: white;
+    opacity: .4;
+}
+.slick-dots li.slick-active button:before{
+    opacity: 1;
+    color: white;
+}
+
+@media (max-width: 950px){
+    .container-imagen img{
+        height: 16rem; 
+        width: 100%;
+    }
+    .carrusel-principal{
+        width: 100%;
+        padding: 1.5rem 1rem;
+        margin-bottom: -1px;
+    }
+    .slick-prev, .slick-next{
+        visibility: hidden;
+        transform: scale(.1);
+    }
+}
