@@ -99,8 +99,9 @@ section[id]{
     mix-blend-mode: multiply;
 }
 .detalle-span{
-    font-weight: 900;
+    font-weight: 600;
     font-size: 2rem;
+    color: var(--secondary-color-text);
     /* padding: .5rem; */
 }
 .caracteristica-detalle{
@@ -210,7 +211,7 @@ section[id]{
 .horario-table{
     padding: .75rem;
     color: #252525;
-    width: 85%;
+    width: 90%;
 }
 .horario-table thead tr td{
     text-align: center;
